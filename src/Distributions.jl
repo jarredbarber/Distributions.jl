@@ -90,6 +90,7 @@ export
     GeneralizedExtremeValue,
     Geometric,
     Gumbel,
+    GumbelSoftmax,
     Hypergeometric,
     InverseWishart,
     InverseGamma,
